@@ -1,0 +1,13 @@
+:root {
+  --primary: "#344502";
+  --secondary: "#AFAF02"
+}
+
+.yellowColor {
+  color: var(--secondary) !important;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
