@@ -1,7 +1,6 @@
 "use client";
 // import styles from "./page.module.css";
 import { Box, Button, Heading, useToast } from '@chakra-ui/react';
-import { Router } from 'react-router-dom';
 import { useRouter } from 'next/navigation';
 
 export default function Page({ params }) {
